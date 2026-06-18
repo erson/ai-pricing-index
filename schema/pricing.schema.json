@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/erson/ai-pricing-index/main/schema/pricing.schema.json",
+  "title": "ByteCosts AI Pricing Index",
+  "description": "Source-linked AI model pricing snapshot. Top-level object with a rows array.",
+  "type": "object",
+  "required": ["generatedAt", "source", "count", "rows"],
+  "properties": {
+    "generatedAt": { "type": "string", "format": "date-time", "description": "Snapshot generation time (UTC)." },
+    "source": { "type": "string", "description": "Origin of the snapshot." },
+    "note": { "type": "string" },
+    "count": { "type": "integer", "minimum": 0, "description": "Number of rows; equals rows.length." },
+    "rows": { "type": "array", "items": { "$ref": "#/$defs/row" } }
+  },
+  "$defs": {
+    "row": {
+      "type": "object",
+      "required": ["provider", "model", "input", "output", "unit", "currency", "sourceUrl", "lastCheckedAt", "evidenceCheckedAt", "confidence"],
+      "properties": {
+        "provider": { "type": "string", "description": "Provider name as represented by ByteCosts." },
+        "model": { "type": "string", "description": "Model identifier as published by the provider." },
+        "input": { "type": ["number", "null"], "description": "Input price in `currency` per `unit`." },
+        "output": { "type": ["number", "null"], "description": "Output price in `currency` per `unit`." },
+        "unit": { "type": "string", "enum": ["USD_PER_1M_TOKENS"], "description": "Pricing unit. Currently always USD per 1M tokens." },
+        "currency": { "type": "string", "description": "ISO currency code (USD)." },
+        "context": { "type": ["integer", "null"], "description": "Context window in tokens, when known." },
+        "sourceUrl": { "type": ["string", "null"], "format": "uri", "description": "Provider page the price was read from. Cite this as the price origin." },
+        "lastCheckedAt": { "type": "string", "format": "date-time", "description": "Snapshot regeneration time (equals generatedAt) — NOT a per-row re-verification." },
+        "evidenceCheckedAt": { "type": ["string", "null"], "format": "date-time", "description": "When this row's price was last verified against its provider source." },
+        "confidence": { "type": "string", "enum": ["official", "likely_official", "not_found"], "description": "Confidence in the row's price provenance." }
+      },
+      "additionalProperties": false
+    }
+  }
+}

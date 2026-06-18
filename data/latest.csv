@@ -1,0 +1,301 @@
+provider,model,input,output,unit,currency,context,sourceUrl,lastCheckedAt,evidenceCheckedAt,confidence
+Alibaba,qwen-mt-flash,0.16,0.49,USD_PER_1M_TOKENS,USD,,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,qwen-mt-lite,0.12,0.36,USD_PER_1M_TOKENS,USD,,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,qwen-mt-plus,0.259,0.775,USD_PER_1M_TOKENS,USD,16384,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,Qwen3-Max,1.2,0.27,USD_PER_1M_TOKENS,USD,262144,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,qwen3-vl-plus,2.46,7.37,USD_PER_1M_TOKENS,USD,262144,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,Qwen3.5-Flash,0.1,0.21,USD_PER_1M_TOKENS,USD,1000000,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba,Qwen3.5-Plus,0.4,0.63,USD_PER_1M_TOKENS,USD,1000000,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:16.520Z,official
+Alibaba (China),qwen-mt-flash,0.16,0.49,USD_PER_1M_TOKENS,USD,,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen-mt-flash (Global),0.101,0.28,USD_PER_1M_TOKENS,USD,16384,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen-mt-lite,0.12,0.36,USD_PER_1M_TOKENS,USD,,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen-mt-lite (Global),0.086,0.229,USD_PER_1M_TOKENS,USD,16384,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen-mt-plus (Global),0.259,0.775,USD_PER_1M_TOKENS,USD,16384,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen-mt-turbo,0.16,0.49,USD_PER_1M_TOKENS,USD,,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-14b,0.144,0.574,USD_PER_1M_TOKENS,USD,129024,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-235b-a22b,0.287,1.147,USD_PER_1M_TOKENS,USD,129024,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-235b-a22b-thinking-2507,0.23,2.3,USD_PER_1M_TOKENS,USD,126976,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-30b-a3b-thinking-2507,0.108,1.076,USD_PER_1M_TOKENS,USD,126976,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-32b,0.16,0.64,USD_PER_1M_TOKENS,USD,129024,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-8b,0.072,0.287,USD_PER_1M_TOKENS,USD,129024,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-next-80b-a3b-thinking,0.144,1.434,USD_PER_1M_TOKENS,USD,131072,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Alibaba (China),qwen3-vl-plus,2.46,7.37,USD_PER_1M_TOKENS,USD,262144,https://www.alibabacloud.com/help/en/model-studio/models,2026-06-14T08:24:35.725Z,2026-05-30T14:13:19.984Z,official
+Amazon Bedrock,GPT OSS Safeguard 120B (Europe – Ireland/Milan),0.18,0.71,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,GPT OSS Safeguard 120B (Europe – London),0.23,0.93,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,GPT OSS Safeguard 20B (Europe – Ireland/Milan),0.08,0.24,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,GPT OSS Safeguard 20B (Europe – London),0.11,0.31,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,gpt-oss-120b (OpenAI),0.0773,0.309,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,gpt-oss-20b (OpenAI),0.0361,0.1545,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,gpt-oss-20b (OpenAI) – Training hour price,0.09,0.39,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2,0.36,1.45,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2 (Asia Pacific – Sydney),0.309,1.236,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2 (Europe – London),0.47,1.86,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.1,0.36,1.44,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.1 (Asia Pacific – Sydney),0.309,1.236,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.1 (Europe – London),0.47,1.86,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.5,0.36,1.44,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.5 (Asia Pacific – Sydney),0.31,1.24,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Minimax M2.5 (Europe – London),0.47,1.86,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 235B A22B 2507 (Asia Pacific – Sydney),0.2266,0.9064,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 32B (Asia Pacific – Sydney),0.1545,0.618,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 Coder 30B A3B (Asia Pacific – Sydney),0.1545,0.618,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 Coder Next (South America – Sao Paulo / Asia Pacific – Tokyo),0.6,1.44,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 Next 80B A3B (South America – Sao Paulo / Asia Pacific – Tokyo),0.18,1.45,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Amazon Bedrock,Qwen3 VL 235B A22B (South America – Sao Paulo / Asia Pacific – Tokyo),0.64,3.22,USD_PER_1M_TOKENS,USD,,https://aws.amazon.com/bedrock/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:32.617Z,official
+Anthropic,Claude Haiku 4.5,1,5,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Opus 4.1,15,75,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Opus 4.5,5,25,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Opus 4.6,5,25,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Opus 4.7,5,25,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Opus 4.8,5,25,USD_PER_1M_TOKENS,USD,1000000,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Sonnet 4.5,3,15,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Anthropic,Claude Sonnet 4.6,3,15,USD_PER_1M_TOKENS,USD,,https://platform.claude.com/docs/en/about-claude/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:46.421Z,official
+Baseten,DeepSeek V3.1,0.5,1.5,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,DeepSeek V4,1.74,3.48,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,GLM 4.7,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,GLM 5,0.95,3.15,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,GLM 5.1,1.3,4.3,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,GPT OSS 120B,0.1,0.5,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,Kimi K2.5,0.6,3,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,Kimi K2.6,0.95,4,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,MiniMax M2.5,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Baseten,NVIDIA Nemotron 3 Super,0.3,0.75,USD_PER_1M_TOKENS,USD,,https://www.baseten.co/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:59:49.306Z,official
+Cloudflare Workers AI,@cf/deepseek-ai/deepseek-r1-distill-qwen-32b,0.497,4.881,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.1-70b-instruct-fp8-fast,0.293,2.253,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.1-8b-instruct-fp8-fast,0.045,0.384,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.2-11b-vision-instruct,0.049,0.676,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.2-1b-instruct,0.027,0.201,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.2-3b-instruct,0.051,0.335,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/meta/llama-3.3-70b-instruct-fp8-fast,0.293,2.253,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/mistral/mistral-7b-instruct-v0.1,0.11,0.19,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cloudflare Workers AI,@cf/mistralai/mistral-small-3.1-24b-instruct,0.351,0.555,USD_PER_1M_TOKENS,USD,,https://developers.cloudflare.com/workers-ai/platform/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T14:00:25.642Z,official
+Cohere,Aya Expanse (8B and 32B),0.5,1.5,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Cohere,Command,1,2,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Cohere,Command R 03-2024,0.5,1.5,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Cohere,Command R+ 04-2024,3,15,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Cohere,Command R+ 08-2024,2.5,10,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Cohere,Command-light,0.3,0.6,USD_PER_1M_TOKENS,USD,,https://cohere.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:00:44.615Z,official
+Deep Infra,DeepSeek-R1-0528,0.5,2.15,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V3,0.32,0.89,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V3-0324,0.2,0.77,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V3.1,0.21,0.79,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V3.1-Terminus,0.27,0.95,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V3.2,0.26,0.38,USD_PER_1M_TOKENS,USD,160,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V4-Flash,0.1,0.2,USD_PER_1M_TOKENS,USD,1024,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,DeepSeek-V4-Pro,1.3,2.6,USD_PER_1M_TOKENS,USD,1024,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,gemini-2.5-flash,0.3,2.5,USD_PER_1M_TOKENS,USD,976,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,gemini-2.5-pro,1.25,10,USD_PER_1M_TOKENS,USD,976,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,gemini-3.1-flash-lite,0.25,1.5,USD_PER_1M_TOKENS,USD,976,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,gemini-3.1-pro,2,12,USD_PER_1M_TOKENS,USD,976,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,gemini-3.5-flash,1.5,9,USD_PER_1M_TOKENS,USD,976,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-Coder-480B-A35B-Instruct-Turbo,0.3,1,USD_PER_1M_TOKENS,USD,256,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-Max,1.2,6,USD_PER_1M_TOKENS,USD,250,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-Max-Thinking,1.2,6,USD_PER_1M_TOKENS,USD,250,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-Next-80B-A3B-Instruct,0.09,1.1,USD_PER_1M_TOKENS,USD,256,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-VL-235B-A22B-Instruct,0.2,0.88,USD_PER_1M_TOKENS,USD,256,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3-VL-30B-A3B-Instruct,0.15,0.6,USD_PER_1M_TOKENS,USD,256,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+Deep Infra,Qwen3.7-Max,2.5,7.5,USD_PER_1M_TOKENS,USD,250,https://deepinfra.com/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:01:57.660Z,official
+DeepSeek,deepseek-v4-flash,0.0028,0.28,USD_PER_1M_TOKENS,USD,1000000,https://api-docs.deepseek.com/quick_start/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:49.266Z,official
+DeepSeek,deepseek-v4-pro,0.003625,0.87,USD_PER_1M_TOKENS,USD,1000000,https://api-docs.deepseek.com/quick_start/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:49.266Z,official
+Fireworks (Firepass),Kimi K2.6 Turbo,0,0,USD_PER_1M_TOKENS,USD,256000,https://docs.fireworks.ai/firepass,2026-06-14T08:24:35.725Z,2026-05-30T14:13:32.066Z,official
+Fireworks AI,Base Embeddings,0.008,,USD_PER_1M_TOKENS,USD,150000000,https://docs.fireworks.ai/serverless/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:52.445Z,official
+Fireworks AI,Base Embeddings,0.016,,USD_PER_1M_TOKENS,USD,150000000,https://docs.fireworks.ai/serverless/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:52.445Z,official
+Fireworks AI,Qwen3 8B,0.1,,USD_PER_1M_TOKENS,USD,,https://docs.fireworks.ai/serverless/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:52.445Z,official
+Friendli,DeepSeek-V3.2,0.5,1.5,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,gemma-4-31B-it,0.14,0.4,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,GLM-5,1,3.2,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,GLM-5.1,1.4,4.4,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,K-EXAONE-236B-A23B,0.2,0.8,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,Kimi-K2.5,0.6,3,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,Llama-3.1-8B-Instruct,0.1,,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,Llama-3.3-70B-Instruct,0.6,,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,MiniMax-M2.5,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Friendli,Qwen3-235B-A22B-Instruct-2507,0.2,0.8,USD_PER_1M_TOKENS,USD,,https://friendli.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:02:40.146Z,official
+Google,Gemini 3 Flash Preview,0.5,3,USD_PER_1M_TOKENS,USD,,https://ai.google.dev/gemini-api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:58.387Z,official
+Google,Gemini 3.1 Pro Preview,2,12,USD_PER_1M_TOKENS,USD,,https://ai.google.dev/gemini-api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:58.387Z,official
+Google,Gemini Embedding,0.15,,USD_PER_1M_TOKENS,USD,,https://ai.google.dev/gemini-api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:58.387Z,official
+Google,Gemini Robotics-ER 1.6 Preview,1,5,USD_PER_1M_TOKENS,USD,,https://ai.google.dev/gemini-api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:56:58.387Z,official
+Groq,GPT OSS 120B 128k,0.15,0.6,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,GPT OSS 20B 128k,0.075,0.3,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,GPT OSS Safeguard 20B,0.075,0.3,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,Llama 3.1 8B Instant 128k,0.05,0.08,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,Llama 3.3 70B Versatile 128k,0.59,0.79,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,Llama 4 Scout (17Bx16E) 128k,0.11,0.34,USD_PER_1M_TOKENS,USD,128000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,moonshotai/kimi-k2-instruct-0905,1,3,USD_PER_1M_TOKENS,USD,,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,openai/gpt-oss-120b,0.15,0.6,USD_PER_1M_TOKENS,USD,,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,openai/gpt-oss-20b,0.075,0.3,USD_PER_1M_TOKENS,USD,,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Groq,Qwen3 32B 131k,0.29,0.59,USD_PER_1M_TOKENS,USD,131000,https://groq.com/pricing/,2026-06-14T08:24:35.725Z,2026-05-30T13:57:16.090Z,official
+Inference,ClipTagger 12B,0.3,0.5,USD_PER_1M_TOKENS,USD,8000,https://inference.net/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:45.856Z,likely_official
+Inference,Nemotron 3 Super,2.5,5,USD_PER_1M_TOKENS,USD,1000000,https://inference.net/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:45.856Z,likely_official
+Inference,Schematron V2 Small,0.05,0.25,USD_PER_1M_TOKENS,USD,125000,https://inference.net/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:45.856Z,likely_official
+Inference,Schematron V2 Turbo,0.03,0.15,USD_PER_1M_TOKENS,USD,125000,https://inference.net/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:45.856Z,likely_official
+Lilac,Gemma 4,0.11,0.35,USD_PER_1M_TOKENS,USD,262100,https://docs.getlilac.com/inference/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:50.593Z,official
+Lilac,GLM 5.1,0.9,3,USD_PER_1M_TOKENS,USD,202800,https://docs.getlilac.com/inference/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:50.593Z,official
+Lilac,Kimi K2.6,0.7,3.5,USD_PER_1M_TOKENS,USD,262144,https://docs.getlilac.com/inference/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:50.593Z,official
+Lilac,MiniMax M2.7,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://docs.getlilac.com/inference/models,2026-06-14T08:24:35.725Z,2026-05-30T14:14:50.593Z,official
+LucidQuery AI,lucidnova-rf1-100b,2,5,USD_PER_1M_TOKENS,USD,120000,https://lucidquery.com/api/docs,2026-06-14T08:24:35.725Z,2026-05-30T14:14:55.135Z,official
+LucidQuery AI,lucidquery-nexus-coder,2,5,USD_PER_1M_TOKENS,USD,60000,https://lucidquery.com/api/docs,2026-06-14T08:24:35.725Z,2026-05-30T14:14:55.135Z,official
+MiniMax (minimax.io),MiniMax-M3,0.3,1.2,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimax.io/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimax.io),MiniMax-M3 (>512k input),1.2,4.8,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimax.io/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimax.io),"MiniMax-M3 (Priority, >512k input)",1.8,7.2,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimax.io/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimax.io),MiniMax-M3 (Priority),0.45,1.8,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimax.io/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimaxi.com),MiniMax-M3,0.3,1.2,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimaxi.com/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimaxi.com),MiniMax-M3 (>512k input),1.2,4.8,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimaxi.com/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimaxi.com),"MiniMax-M3 (Priority, >512k input)",1.8,7.2,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimaxi.com/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+MiniMax (minimaxi.com),MiniMax-M3 (Priority),0.45,1.8,USD_PER_1M_TOKENS,USD,1000000,https://platform.minimaxi.com/docs/guides/pricing-paygo,2026-06-14T08:24:35.725Z,2026-06-01T10:39:30.387Z,official
+NovitaAI,DeepSeek V3.2,0.269,0.4,USD_PER_1M_TOKENS,USD,163840,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,DeepSeek V4 Flash,0.14,0.28,USD_PER_1M_TOKENS,USD,1048576,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,DeepSeek V4 Pro,1.6,3.2,USD_PER_1M_TOKENS,USD,1048576,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,DeepSeek-OCR 2,0.03,0.03,USD_PER_1M_TOKENS,USD,8192,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Gemma 3 27B,0.119,0.2,USD_PER_1M_TOKENS,USD,98304,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Kat Coder Pro,0.3,1.2,USD_PER_1M_TOKENS,USD,256000,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Kimi K2.6,0.14,0.4,USD_PER_1M_TOKENS,USD,262144,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,L3 8B Stheno V3.2,0.05,0.05,USD_PER_1M_TOKENS,USD,8192,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,L31 70B Euryale V2.2,1.48,1.48,USD_PER_1M_TOKENS,USD,8192,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Llama 3.1 8B Instruct,0.02,0.05,USD_PER_1M_TOKENS,USD,16384,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,MiniMax M1,0.55,2.2,USD_PER_1M_TOKENS,USD,1000000,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Minimax M2.1,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,MiniMax M2.5,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,MiniMax M2.5-highspeed,0.6,2.4,USD_PER_1M_TOKENS,USD,204800,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,MiniMax M2.7,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,MiniMax-M2,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,OpenAI GPT OSS 120B,0.05,0.25,USD_PER_1M_TOKENS,USD,131072,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,OpenAI GPT OSS 20B,0.04,0.15,USD_PER_1M_TOKENS,USD,131072,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,Sao10k L3 8B Lunaris,0.05,0.05,USD_PER_1M_TOKENS,USD,8192,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+NovitaAI,zai-org/glm-4.5-air,0.13,0.85,USD_PER_1M_TOKENS,USD,131072,https://novita.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:04:34.858Z,official
+OpenAI,chat-latest,5,30,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-4o-transcribe,2.5,10,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.3-codex,1.75,14,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.4,2.5,15,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.4-mini,0.75,4.5,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.4-nano,0.2,1.25,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.5,5,30,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-5.5-pro,30,180,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenAI,gpt-realtime-2,32,64,USD_PER_1M_TOKENS,USD,,https://developers.openai.com/api/docs/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:52:42.769Z,official
+OpenCode Go,MiniMax M3,0.6,2.4,USD_PER_1M_TOKENS,USD,512000,https://opencode.ai/zen/v1/models,2026-06-14T08:24:35.725Z,2026-06-01T10:56:24.740Z,official
+OpenCode Zen,MiniMax M3 Free,0,0,USD_PER_1M_TOKENS,USD,200000,https://opencode.ai/zen/v1/models,2026-06-14T08:24:35.725Z,2026-06-01T10:56:24.740Z,official
+OpenRouter,MiniMax: MiniMax M3,0.3,1.2,USD_PER_1M_TOKENS,USD,1048576,https://openrouter.ai/minimax/minimax-m3/pricing,2026-06-14T08:24:35.725Z,2026-06-01T10:56:24.740Z,official
+Perplexity,Sonar,1,1,USD_PER_1M_TOKENS,USD,,https://docs.perplexity.ai/docs/getting-started/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:22.127Z,official
+Perplexity,Sonar Deep Research,2,8,USD_PER_1M_TOKENS,USD,,https://docs.perplexity.ai/docs/getting-started/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:22.127Z,official
+Perplexity,Sonar Pro,3,15,USD_PER_1M_TOKENS,USD,,https://docs.perplexity.ai/docs/getting-started/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:22.127Z,official
+Perplexity,Sonar Reasoning Pro,2,8,USD_PER_1M_TOKENS,USD,,https://docs.perplexity.ai/docs/getting-started/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:22.127Z,official
+Perplexity Agent,perplexity/sonar,0.25,2.5,USD_PER_1M_TOKENS,USD,,https://docs.perplexity.ai/docs/agent-api/models,2026-06-14T08:24:35.725Z,2026-05-30T14:15:31.247Z,official
+routing.run,route/deepseek-v3.2,0,0,USD_PER_1M_TOKENS,USD,163000,https://docs.routing.run/api-reference/models,2026-06-14T08:24:35.725Z,2026-05-30T14:15:38.000Z,not_found
+SiliconFlow,deepseek-ai/DeepSeek-V3.2,0.29,0.43,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,deepseek-ai/DeepSeek-V4-Flash,0.14,0.29,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,deepseek-ai/DeepSeek-V4-Pro,0.43,0.86,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,MiniMaxAI/MiniMax-M2.5,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,Pro/moonshotai/Kimi-K2.6,0.93,3.86,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,Pro/zai-org/GLM-5.1 (0-32k tokens),0.86,3.43,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,Pro/zai-org/GLM-5.1 (32k+ tokens),1.14,4,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,Qwen/Qwen3.6-35B-A3B (0-128k tokens),0.06,0.48,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,Qwen/Qwen3.6-35B-A3B (128k-256k tokens),0.24,1.92,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,stepfun-ai/Step-3.5-Flash,0.11,0.33,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,tencent/Hunyuan-A13B-Instruct,0.14,0.57,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow,zai-org/GLM-4.5V,0.14,0.86,USD_PER_1M_TOKENS,USD,,https://siliconflow.cn/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:05:22.138Z,official
+SiliconFlow (China),deepseek-ai/DeepSeek-V4-Pro,0.43,0.86,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=deepseek-ai%2FDeepSeek-V4-Pro,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),MiniMaxAI/MiniMax-M2.5,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=MiniMaxAI%2FMiniMax-M2.5,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),PaddlePaddle/PaddleOCR-VL-1.5,0,0,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=PaddlePaddle%2FPaddleOCR-VL-1.5,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),Pro/moonshotai/Kimi-K2.6,0.93,3.86,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=Pro%2Fmoonshotai%2FKimi-K2.6,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),Pro/zai-org/GLM-5.1 (0-32k tokens),0.86,3.44,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=Pro%2Fzai-org%2FGLM-5.1,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),Pro/zai-org/GLM-5.1 (32k+ tokens),1.15,4.03,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=Pro%2Fzai-org%2FGLM-5.1,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),Qwen/Qwen3.6-35B-A3B (0-128k tokens),0.06,0.48,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=Qwen%2FQwen3.6-35B-A3B,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+SiliconFlow (China),Qwen/Qwen3.6-35B-A3B (128k-256k tokens),0.24,1.92,USD_PER_1M_TOKENS,USD,,https://cloud.siliconflow.cn/models?target=Qwen%2FQwen3.6-35B-A3B,2026-06-14T08:24:35.725Z,2026-05-30T14:05:51.154Z,official
+Together AI,Gemma 4 31B,0.018,,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,GLM-5.1,1.4,4.4,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Juggernaut Pro Flux,0.0049,,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Kimi K2.6,1.2,4.5,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Llama 3 8B Instruct Lite,0.1,0.1,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Llama Guard 4 12B,0.2,,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,MiniMax M2.7,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Multilingual e5 large instruct,0.02,,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Qwen3 235B A22B Instruct 2507 FP8 Throughput,0.2,0.6,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Qwen3.5 9B,0.1,0.15,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+Together AI,Qwen3.6-Plus,0.5,3,USD_PER_1M_TOKENS,USD,,https://www.together.ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T13:57:53.598Z,official
+v0,v0 Max,5,25,USD_PER_1M_TOKENS,USD,,https://v0.dev/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:06:04.223Z,official
+v0,v0 Max Fast,30,150,USD_PER_1M_TOKENS,USD,,https://v0.dev/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:06:04.223Z,official
+v0,v0 Mini,1,5,USD_PER_1M_TOKENS,USD,,https://v0.dev/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:06:04.223Z,official
+v0,v0 Pro,3,15,USD_PER_1M_TOKENS,USD,,https://v0.dev/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:06:04.223Z,official
+Vercel AI Gateway,MiniMax M3,0.3,1.2,USD_PER_1M_TOKENS,USD,1000000,https://vercel.com/ai-gateway/models,2026-06-14T08:24:35.725Z,2026-06-01T10:56:24.740Z,official
+Vertex,Gemini 2.0 Flash Lite,1,,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3 Flash Preview,0.25,1.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3 Pro,2,12,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.1 Flash,0.5,3,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.1 Flash-Lite,0.125,,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.1 Pro Preview Flex/Batch,1,6,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.1 Pro Preview Priority,3.6,21.6,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.5 Flash Flex/Batch,0.75,4.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex,Gemini 3.5 Flash Priority,2.7,,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:12.019Z,official
+Vertex (Anthropic),Claude Opus 4.5,5.5,27.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vertex (Anthropic),Claude Opus 4.6,5.5,27.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vertex (Anthropic),Claude Opus 4.7,5,25,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vertex (Anthropic),Claude Opus 4.8,5,25,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vertex (Anthropic),Claude Sonnet 4.5,3.3,16.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vertex (Anthropic),Claude Sonnet 4.6,3.3,16.5,USD_PER_1M_TOKENS,USD,,https://cloud.google.com/vertex-ai/generative-ai/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:03:20.622Z,likely_official
+Vivgrid,claude-haiku-4.5,1,5,USD_PER_1M_TOKENS,USD,200000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,claude-sonnet-4.6,4,15,USD_PER_1M_TOKENS,USD,200000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,cluade-opus-4.6,5,25,USD_PER_1M_TOKENS,USD,200000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,deepseek-v4-flash,0.15,0.28,USD_PER_1M_TOKENS,USD,1000000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,deepseek-v4-pro,1.74,3.48,USD_PER_1M_TOKENS,USD,1000000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gemini-3-flash-preview,0.5,3,USD_PER_1M_TOKENS,USD,1000000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gemini-3-pro-preview,2,12,USD_PER_1M_TOKENS,USD,1000000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gemini-3.1-flash-lite-preview,0.25,1.5,USD_PER_1M_TOKENS,USD,1048576,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gemini-3.1-pro-preview,3,12,USD_PER_1M_TOKENS,USD,1048576,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,glm-5.1,1.4,4.4,USD_PER_1M_TOKENS,USD,200000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5,1.25,10,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5-mini,0.25,2,USD_PER_1M_TOKENS,USD,272000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.1,1.25,10,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.1-codex,1.25,10,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.1-codex-max,1.25,10,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.2,1.75,14,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.2-codex,1.75,14,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.3-codex,1.75,14,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.4,2.5,15,USD_PER_1M_TOKENS,USD,1050000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.4-mini,0.75,4.5,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.4-nano,0.2,1.25,USD_PER_1M_TOKENS,USD,400000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,gpt-5.5,5,30,USD_PER_1M_TOKENS,USD,1050000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,kimi-k2.6,1,4,USD_PER_1M_TOKENS,USD,256000,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vivgrid,minimax-m2.7,0.3,1.2,USD_PER_1M_TOKENS,USD,204800,https://docs.vivgrid.com/models#pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:39.285Z,official
+Vultr,deepseek-ai/DeepSeek-V4-Pro,0.55,1.65,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,MiniMaxAI/MiniMax-M2.7,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,moonshotai/Kimi-K2.6,0.15,0.6,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,nvidia/DeepSeek-V3.2-NVFP4,0.55,1.65,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3,0.01,0.01,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16,0.13,0.38,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,nvidia/Nemotron-Cascade-2-30B-A3B,0.15,0.6,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,Qwen/Qwen3.5-397B-A17B-FP8,0.3,1.2,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+Vultr,zai-org/GLM-5.1-FP8,0.85,3.1,USD_PER_1M_TOKENS,USD,,https://www.vultr.com/pricing/#cloud-gpu,2026-06-14T08:24:35.725Z,2026-05-30T14:06:40.109Z,official
+xAI,Grok 4.3,1.25,2.5,USD_PER_1M_TOKENS,USD,1000000,https://docs.x.ai/docs/models,2026-06-14T08:24:35.725Z,2026-05-30T14:06:54.977Z,official
+xAI,Grok Build 0.1,1,2,USD_PER_1M_TOKENS,USD,256000,https://docs.x.ai/docs/models,2026-06-14T08:24:35.725Z,2026-05-30T14:06:54.977Z,official
+xAI,Imagine API - Image,0.02,,USD_PER_1M_TOKENS,USD,,https://docs.x.ai/docs/models,2026-06-14T08:24:35.725Z,2026-05-30T14:06:54.977Z,official
+xAI,Voice API - TTS,0.015,,USD_PER_1M_TOKENS,USD,,https://docs.x.ai/docs/models,2026-06-14T08:24:35.725Z,2026-05-30T14:06:54.977Z,official
+Z.AI,GLM-4-32B-0414-128K,0.1,0.1,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5-Air,0.2,1.1,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5-AirX,1.1,4.5,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5-Flash,0,0,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5-X,2.2,8.9,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.5V,0.6,1.8,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.6,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.6V,0.3,0.9,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.6V-Flash,0,0,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.6V-FlashX,0.04,0.4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.7,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.7-Flash,0,0,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-4.7-FlashX,0.07,0.4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-5,1,3.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-5-Turbo,1.2,4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-5.1,1.4,4.4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-5V-Turbo,1.2,4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Z.AI,GLM-OCR,0.03,0.03,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:12.348Z,official
+Zhipu AI,GLM-4-32B-0414-128K,0.1,0.1,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.5,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.5-Air,0.2,1.1,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.5-AirX,1.1,4.5,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.5-X,2.2,8.9,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.6,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.7,0.6,2.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-4.7-FlashX,0.07,0.4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-5,1,3.2,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-5-Turbo,1.2,4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
+Zhipu AI,GLM-5.1,1.4,4.4,USD_PER_1M_TOKENS,USD,,https://docs.z.ai/guides/overview/pricing,2026-06-14T08:24:35.725Z,2026-05-30T14:17:54.486Z,official
