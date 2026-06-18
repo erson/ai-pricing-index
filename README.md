@@ -4,9 +4,9 @@ A **source-linked dataset of AI model pricing**. Every row records a provider's
 per-token input/output price, the provider page the number was read from
 (`sourceUrl`), and the date that price was last verified (`evidenceCheckedAt`).
 
-The 2026-06-14 snapshot holds **300 source-derived rows across 39 represented
+The 2026-06-18 snapshot holds **300 source-derived rows across 39 represented
 providers**, derived from a broader [ByteCosts](https://bytecosts.com) catalog
-that tracks **5,261 models across 145 providers** (4,888 with pricing).
+that tracks **5,277 models across 145 providers** (4,901 with pricing).
 
 > **Explore interactive comparisons and calculators:
 > https://bytecosts.com/data/ai-pricing-dataset/**
@@ -24,7 +24,7 @@ a distribution mirror; the interactive product lives at bytecosts.com.
 | --- | --- |
 | [`data/latest.json`](data/latest.json) | Newest snapshot, full objects |
 | [`data/latest.csv`](data/latest.csv) | Newest snapshot, flat rows |
-| [`snapshots/2026-06-14/`](snapshots/2026-06-14/) | Immutable dated snapshot + `checksums.txt` |
+| [`snapshots/2026-06-18/`](snapshots/2026-06-18/) | Newest immutable dated snapshot + `checksums.txt` (older dates retained) |
 | [`schema/pricing.schema.json`](schema/pricing.schema.json) | JSON Schema for validation |
 | [`schema/fields.md`](schema/fields.md) | Field reference |
 
@@ -67,7 +67,7 @@ Full runnable examples in [`examples/`](examples/).
   "currency": "USD",
   "context": 8192,          // tokens, when known
   "sourceUrl": "https://www.alibabacloud.com/help/en/model-studio/models",
-  "lastCheckedAt": "2026-06-14T08:24:35.725Z",   // snapshot regen time (all rows)
+  "lastCheckedAt": "2026-06-18T20:18:45.091Z",   // snapshot regen time (all rows)
   "evidenceCheckedAt": "2026-05-30T14:13:16.520Z", // per-row source verification
   "confidence": "official"  // official | likely_official | not_found
 }
@@ -85,14 +85,14 @@ Snapshots under `snapshots/<date>/` are immutable; `data/latest.*` mirrors the
 newest. Each snapshot ships `checksums.txt` (SHA-256). Verify:
 
 ```bash
-cd snapshots/2026-06-14 && shasum -a 256 -c checksums.txt
+cd snapshots/2026-06-18 && shasum -a 256 -c checksums.txt
 ```
 
 ## Cite this dataset
 
 `CITATION.cff` makes the repo citable on GitHub ("Cite this repository").
 
-> ByteCosts AI Pricing Index (2026.06.14).
+> ByteCosts AI Pricing Index (2026.06.18).
 > https://bytecosts.com/data/ai-pricing-dataset/
 
 ## License

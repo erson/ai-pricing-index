@@ -32,7 +32,7 @@ the date it was verified.
 
 This file (`data/latest.json`) is a **source-derived** subset: prices read
 directly from a provider source page, not the full tracked catalog. As of the
-2026-06-14 snapshot it holds **300 rows across 39 represented providers**,
-derived from a broader ByteCosts catalog that tracks **5,261 models across 145
-providers** (4,888 with pricing). The broader catalog, price history, and
+2026-06-18 snapshot it holds **300 rows across 39 represented providers**,
+derived from a broader ByteCosts catalog that tracks **5,277 models across 145
+providers** (4,901 with pricing). The broader catalog, price history, and
 calculators live at https://bytecosts.com/.

@@ -4,9 +4,9 @@ title: "ByteCosts AI Pricing Index"
 abstract: >-
   A source-linked index of AI model pricing. Each row records a provider's
   per-token input/output price with the provider source URL it was read from and
-  the date that price was last verified. The 2026-06-14 snapshot holds 300
+  the date that price was last verified. The 2026-06-18 snapshot holds 300
   source-derived rows across 39 represented providers, derived from a broader
-  ByteCosts catalog tracking 5,261 models across 145 providers.
+  ByteCosts catalog tracking 5,277 models across 145 providers.
 type: dataset
 authors:
   - name: "ByteCosts"
@@ -14,8 +14,8 @@ authors:
 url: "https://bytecosts.com/data/ai-pricing-dataset/"
 repository-code: "https://github.com/erson/ai-pricing-index"
 license: CC-BY-4.0
-version: "2026.06.14"
-date-released: "2026-06-14"
+version: "2026.06.18"
+date-released: "2026-06-18"
 keywords:
   - "AI model pricing"
   - "LLM pricing"
